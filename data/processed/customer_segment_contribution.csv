@@ -1,0 +1,4 @@
+CustomerSegment,Customers,TotalBalance,TotalTransactionValue,CustomerShare_%,BalanceShare_%,TransactionValueShare_%
+Core Active,651,44326244.51,68582301.3,59.18181818181818,54.69878792156469,55.32816295274675
+High-Value Active,211,36710733.08,55373199.19,19.18181818181818,45.30121207843531,44.67183704725325
+No Financial Relationship,238,0.0,0.0,21.636363636363637,0.0,0.0
